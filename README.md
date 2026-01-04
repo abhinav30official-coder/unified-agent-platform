@@ -10,8 +10,7 @@ This project is designed to demonstrate **real-world backend engineering**: API 
 
 The service is **deployed on Render**.
 
-* **Base URL:** `https://<your-render-app>.onrender.com`
-* **Swagger UI:** `https://<your-render-app>.onrender.com/docs`
+* **Base URL:** `https://unified-agent-platform-1.onrender.com`
 
 Swagger is the primary interface for testing the API.
 
