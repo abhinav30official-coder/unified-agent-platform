@@ -4,15 +4,6 @@ A **backend-first FastAPI project** that exposes a **single unified API** to cre
 
 This project is designed to demonstrate **real-world backend engineering**: API design, abstraction, third-party integrations, deployment, and trade-off decisions.
 
----
-
-## 🚀 Live Deployment
-
-The service is **deployed on Render**.
-
-* **Base URL:** `https://unified-agent-platform-1.onrender.com`
-
-Swagger is the primary interface for testing the API.
 
 ---
 
@@ -153,16 +144,6 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## ☁️ Deployment (Render)
-
-* Runtime: Python
-* Start command:
-
-```bash
-python -m uvicorn app.main:app --host 0.0.0.0 --port 10000
-```
-
-* Secrets managed via **Render Environment Variables**
 
 ---
 
